@@ -5,15 +5,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>unified-dispatching</artifactId>
+  <artifactId>springboot-schedule-unified-dispatching</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <name>springboot-schedule-unified-dispatching</name>
 
-  <name>unified-dispatching</name>
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.1.6.RELEASE</version>
-    <relativePath/> <!-- lookup parent from repository -->
+    <relativePath/> 
   </parent>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
